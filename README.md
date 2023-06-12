@@ -3,9 +3,9 @@ Kinga Janicka, Natalia Jakubiec
 
 1: Kompilacja projektu i uruchomienie programu
 Aby skompilować program potrzebne są:
-•	paczka z plikami źródłowymi (TicTacToe.zip)
-•	program Visual Studio Community (2022) z workload'em Desktop Development with C++.
-•	najnowsza wersja biblioteki SFML (SFML 2.5.1, Visual C++ 15 (2017) – 64-bit)
+	paczka z plikami źródłowymi (TicTacToe.zip)
+	program Visual Studio Community (2022) z workload'em Desktop Development with C++.
+	najnowsza wersja biblioteki SFML (SFML 2.5.1, Visual C++ 15 (2017) – 64-bit)
 
 Kroki w celu kompilacji (Windows):
 1.	Rozpakować paczkę z plikami źródłowymi.
