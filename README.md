@@ -39,5 +39,5 @@ Po zakończeniu gry, na ekranie zostaje wyświetlona informacja o wygranej (lub 
 
 Tryb dla dwóch graczy:
 Tryb dla dwóch graczy działa analogicznie do trybu pierwszego, z tą różnicą, że w każdej turze kliknięcie lewym przyciskiem myszy po najechaniu kursorem na odpowiedni kwadrat ustawia kolejny symbol. <br>
-![Uploading image.png…]()<br>
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/1866f0b8-81c8-497e-9519-0ce02f68392d)<br>
 
