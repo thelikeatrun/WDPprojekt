@@ -11,7 +11,8 @@ Kroki w celu kompilacji (Windows):
 1.	Rozpakować paczkę z plikami źródłowymi.
 2.	Otworzenie projektu w programie Visual Studio (plik z rozszerzeniem .sln).
 3.	Wybranie wersji Release, x64.
-4.	Zbudowanie projektu.
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/ed47f5e7-5f28-4a04-9ab3-25eff705d00c)
+5.	Zbudowanie projektu.
 
 Kroki w celu kompilacji (Linux, Ubuntu 22):
 1.	Rozpakować paczkę z plikami źródłowymi.
