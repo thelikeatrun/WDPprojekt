@@ -23,7 +23,9 @@ W celu uruchomienia programu należy w programie Visual Studio wcisnąć przycis
 
 # Obsługa programu i możliwe przypadki
 
-Ekran widoczny po uruchomieniu programu został przedstawiony na rysunku poniżej:
+Ekran widoczny po uruchomieniu programu został przedstawiony na rysunku poniżej: <br>
+![Uploading image.png…]()
+
 Na ekranie widoczne są trzy przyciski – dwa pozwalające rozpocząć grę w odpowiednim trybie oraz jeden pozwalający wyjśc z programu (można to uczynić także wciskając przycisk Escape).
 
 Tryb dla 1 gracza:
