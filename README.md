@@ -1,5 +1,4 @@
-# WDPprojekt
-Dokumentacja projektu TicTacToe
+# Dokumentacja projektu TicTacToe
 Kinga Janicka
 Natalia Jakubiec
 
