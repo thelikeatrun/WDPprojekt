@@ -24,15 +24,20 @@ W celu uruchomienia programu należy w programie Visual Studio wcisnąć przycis
 # Obsługa programu i możliwe przypadki
 
 Ekran widoczny po uruchomieniu programu został przedstawiony na rysunku poniżej: <br>
-![Uploading image.png…]()
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/28ff0816-7ae3-4676-a5ac-f450c57c04c2)
 
 Na ekranie widoczne są trzy przyciski – dwa pozwalające rozpocząć grę w odpowiednim trybie oraz jeden pozwalający wyjśc z programu (można to uczynić także wciskając przycisk Escape).
 
 Tryb dla 1 gracza:
-Po rozpoczęciu gry w tym trybie, na ekranie ukazuje się plansza do gry oraz informacja o tym, którego gracza dotyczy obecna tura (domyślnie użytkownik rozpoczyna, oraz posługuje się symbolem X).
-Aby wykonać ruch należy za pomocą myszy kliknąć w wybrany kwadrat. Po chwili algorytm odpowie swoim ruchem. Plansza po jednej "wymianie ruchów" została przedstawiona na rysunku poniżej:
-Po zakończeniu gry, na ekranie zostaje wyświetlona informacja o wygranej (lub remisie) oraz prośba o wciśnięcie lewego przycisku myszy w dowolnym miejscu w celu przejścia dalej (powrotu do Menu).
+Po rozpoczęciu gry w tym trybie, na ekranie ukazuje się plansza do gry oraz informacja o tym, którego gracza dotyczy obecna tura (domyślnie użytkownik rozpoczyna, oraz posługuje się symbolem X). <br>
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/8db5bd1c-5eee-482c-b073-8c5009b70966)
+Aby wykonać ruch należy za pomocą myszy kliknąć w wybrany kwadrat. Po chwili algorytm odpowie swoim ruchem. Plansza po jednej "wymianie ruchów" została przedstawiona na rysunku poniżej: <br>
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/50670661-c03a-42a6-85fd-a77d0832c67c)
+Po zakończeniu gry, na ekranie zostaje wyświetlona informacja o wygranej (lub remisie) oraz prośba o wciśnięcie lewego przycisku myszy w dowolnym miejscu w celu przejścia dalej (powrotu do Menu). <br>
+![image](https://github.com/thelikeatrun/WDPprojekt/assets/136385887/8869b41e-d944-45a5-82c8-2ff519991448)
+ 
 
 Tryb dla dwóch graczy:
-Tryb dla dwóch graczy działa analogicznie do trybu pierwszego, z tą różnicą, że w każdej turze kliknięcie lewym przyciskiem myszy po najechaniu kursorem na odpowiedni kwadrat ustawia kolejny symbol.
+Tryb dla dwóch graczy działa analogicznie do trybu pierwszego, z tą różnicą, że w każdej turze kliknięcie lewym przyciskiem myszy po najechaniu kursorem na odpowiedni kwadrat ustawia kolejny symbol. <br>
+![Uploading image.png…]()
 
