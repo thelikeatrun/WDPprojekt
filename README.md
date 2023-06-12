@@ -1,6 +1,5 @@
 # Dokumentacja projektu TicTacToe
-Kinga Janicka
-Natalia Jakubiec
+Kinga Janicka, Natalia Jakubiec
 
 1: Kompilacja projektu i uruchomienie programu
 Aby skompilować program potrzebne są:
@@ -8,18 +7,18 @@ Aby skompilować program potrzebne są:
 •	program Visual Studio Community (2022) z workload'em Desktop Development with C++.
 •	najnowsza wersja biblioteki SFML (SFML 2.5.1, Visual C++ 15 (2017) – 64-bit)
 
-	Kroki w celu kompilacji (Windows):
+Kroki w celu kompilacji (Windows):
 1.	Rozpakować paczkę z plikami źródłowymi.
 2.	Otworzenie projektu w programie Visual Studio (plik z rozszerzeniem .sln).
 3.	Wybranie wersji Release, x64.
 4.	Zbudowanie projektu.
 
-	Kroki w celu kompilacji (Linux, Ubuntu 22):
+Kroki w celu kompilacji (Linux, Ubuntu 22):
 1.	Rozpakować paczkę z plikami źródłowymi.
 2.	Zainstalować pakiet poleceniem sudo apt-get install libsfml-dev.
 3.	Zbudowanie projektu poleceniem make.
 
-	W celu uruchomienia programu należy w programie Visual Studio wcisnąć przycisk Uruchom bez Debugowania (Ctrl + F5) lub uruchomić plik wykonywalny powstały w wyniku procesu kompilacji (linux).
+W celu uruchomienia programu należy w programie Visual Studio wcisnąć przycisk Uruchom bez Debugowania (Ctrl + F5) lub uruchomić plik wykonywalny powstały w wyniku procesu kompilacji (linux).
 
 2: Obsługa programu i możliwe przypadki
 
